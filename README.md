@@ -88,4 +88,4 @@ _MAPE_: чем она меньше, тем лучше.
 
 - в силу ораниченного времени и в качестве дальнешей работы рекомендовал бы разобрать новые признаки и поработать над уже полученными.
 
-:arrow_up:[к оглавлнию](https://github.com/Axewyl/HR-Agency-Research/blob/master/README.md#Оглавлелние)
+:arrow_up:[к оглавлнию](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Оглавлелние)
